@@ -1,0 +1,7 @@
+---
+applications:
+- name: prototype
+  memory: 768M
+  instances: 1
+  random-route: true
+  path: target/prototype-0.1.jar
